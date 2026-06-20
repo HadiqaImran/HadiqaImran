@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-* I’m currently working on learning DSA in C++
 * I'm currently learning Python
 * I’m currently learning about Git and GitHub.
 * I’m looking to collaborate on fun beginner projects.
