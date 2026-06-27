@@ -5,8 +5,8 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-* I'm currently learning Python
-* I’m currently learning about Git and GitHub.
+* I'm currently learning machine learning
+* I’m an aspiring data scientist.
 * I’m looking to collaborate on fun beginner projects.
 
 ## My Education
@@ -15,8 +15,8 @@ Pursuing Data Science from University of the Punjab College of Information and T
 
 ## My Skills
 
-*   **Languages:** Python, C++
-*   **Tools:** Git, GitHub
+*   **Languages:** Python, SQL
+*   **Tools:** Git, GitHub, PowerBI, Numpy, Pandas
 
 ## Contact Me
 
